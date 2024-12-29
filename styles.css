@@ -2,6 +2,12 @@ body{
     font-family:'Times New Roman', Times, serif,Arial, Helvetica, sans-serif;
     background-color: #eee;
 }
+img{
+    width: 20em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .main-heading{
     color: blue;
     text-align: center;
@@ -10,4 +16,11 @@ body{
     text-align: center;
     list-style: none;
     line-height: 1.5rem;
+
+}
+.para{
+    text-align: center;
+}
+ol li{
+    line-height: 1.5em;
 }
