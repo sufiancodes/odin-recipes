@@ -1,0 +1,13 @@
+body{
+    font-family:'Times New Roman', Times, serif,Arial, Helvetica, sans-serif;
+    background-color: #eee;
+}
+.main-heading{
+    color: blue;
+    text-align: center;
+}
+.list{
+    text-align: center;
+    list-style: none;
+    line-height: 1.5rem;
+}
